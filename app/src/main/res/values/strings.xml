@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContextualActionModeExample</string>
+    
+    <string-array name="name">
+        <item>Qirtas</item>
+    <item>Ali</item>
+    <item>Salahudin</item>
+    <item>Naveed</item>
+    <item>Noman</item>
+    </string-array>
+
+
+    <string-array name="email">
+        <item>Qirtas@yop.com</item>
+        <item>Ali@yo.com</item>
+        <item>Salahudin@jh.com</item>
+        <item>Naveed@hh.com</item>
+        <item>Noman@jj.com</item>
+    </string-array>
+
+</resources>
